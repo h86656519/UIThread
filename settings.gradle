@@ -1,0 +1,2 @@
+include ':app', ':looper', ':runonthread'
+rootProject.name='UIThread'
